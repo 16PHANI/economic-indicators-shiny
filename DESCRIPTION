@@ -1,0 +1,14 @@
+Package: EconomicIndicatorsDashboard
+Title: Global Economic Indicators Shiny Dashboard
+Version: 1.0.0
+Description: Interactive Shiny dashboard visualising GDP growth, inflation,
+    and unemployment across 50+ countries using World Bank Open Data.
+    Built with R, Shiny, dplyr, ggplot2, and Plotly.
+Imports:
+    shiny,
+    dplyr,
+    ggplot2,
+    plotly,
+    wbstats,
+    tidyr,
+    DT

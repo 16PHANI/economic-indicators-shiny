@@ -1,0 +1,23 @@
+# R project files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# rsconnect deployment metadata (add your own after deploy)
+rsconnect/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Sensitive environment files
+.Renviron
+.env
+
+# Packrat / renv
+packrat/lib*/
+renv/library/
+renv/local/
+renv/lock/
